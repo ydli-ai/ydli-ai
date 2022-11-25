@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 I an currently a PhD candidate at Institute of Computer Vision, Shenzhen University, supervised by Prof. [Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ&hl=en).
-My research interests are pre-training frameworks and cross-modal understanding and generation. 
+My research interests are **pre-training framework** and **cross-modal understanding and generation**. 
 
 <!--
 **P01son6415/P01son6415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
