@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I am currently a Post-Doc researcher at NGNLab, Tsinghua University.
+I am currently a PostDoc researcher at Department of Electronic Engineering, Tsinghua University.
 My research focuses on the **application of large language models (LLMs)**.
 
 ### Education
